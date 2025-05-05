@@ -1,7 +1,10 @@
 # Magnet player 磁力播放 & 追剧 【全网资源】
-稳定、蓝光、高清、磁力播放
-磁力播放器，不要求任何权限，安装即可使用，高清，超清，蓝光。
-不用经常费劲找各种满是广告的小网站视频源。
+
+稳定、蓝光、高清 
+
+# 功能简介
+磁力资源解析播放，另收集全网视频资源，不要求任何权限，安装即可使用，高清，超清，蓝光等各类资源都有。
+此后不用经常费劲找各种满是广告的小网站视频源。
 
 # 下载
 [https://github.com/zaidielykelee/Magnet_player/releases/tag/1.0.3%2B5](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.0.3%2B5)
