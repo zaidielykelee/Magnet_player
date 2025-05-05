@@ -1,4 +1,4 @@
-# Magnet player 磁力播放 & 追剧 【全网资源】
+# Magnet player  磁力播放｜ 磁力搜索｜追剧
 
 稳定、蓝光、高清 
 
