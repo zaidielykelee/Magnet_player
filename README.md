@@ -5,6 +5,7 @@
 
 # 下载
 [https://github.com/zaidielykelee/Magnet_player/releases/tag/1.0.3%2B5](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.0.3%2B5)
+
 安卓下载： Magnet_player1.0.3+5.apk
 
 苹果下载： Magnet_player1.0.3+5.ipa 【需要自签名安装，教程如下】
