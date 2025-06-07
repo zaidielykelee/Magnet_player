@@ -18,7 +18,7 @@
 
 5-30 预览更新包：
 
-安卓下载： [st_ver_1.1.0.6_preview.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.1.0%2B6/st_ver_1.1.0.6_preview.apk)
+安卓下载： [st_ver_1.1.0.6_preview.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.1.0%2B6/st_ver_1.1.0.6_preview.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
 苹果下载：[st_ver_1.1.0.6_preview.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.1.0%2B6/st_ver_1.1.0.6_preview.ipa) 【需要自签名安装，教程如下】
 
