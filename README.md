@@ -14,9 +14,9 @@
 
 # 下载
 
-[https://github.com/zaidielykelee/Magnet_player/releases/tag/1.1.0%2B6](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.1.0%2B6)
+[https://github.com/zaidielykelee/Magnet_player/releases/tag/1.2.0%2B7](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.2.0%2B7)
 
-5-30 预览更新包：
+6-23 更新新增离线下载，数据备份功能。
 
 安卓下载： [st_ver_1.2.0.7.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_ver_1.2.0.7.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
