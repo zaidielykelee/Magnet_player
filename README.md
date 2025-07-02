@@ -19,9 +19,11 @@
 6-23 更新新增离线下载，数据备份功能。
 
 
-安卓下载： [st_preview.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_preview.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
+安卓下载： [st_preview.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_v1.2.0_7_20250702_110803.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
-苹果下载：[st_preview.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_preview.ipa) 【需要自签名安装，教程如下】
+苹果下载：[st_preview.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_v1.2.0_7_20250702_110803.ipa) 【需要自签名安装，教程如下】
+
+电视端：[shutiaoTV.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/shutiaoTV.apk) 
 
 
 爱思助手 使用 Apple ID 对 IPA 安装包签名的详细操作教程！ - https://www.bilibili.com/video/BV1Jg4y1n7hi/
