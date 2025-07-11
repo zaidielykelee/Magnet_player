@@ -12,21 +12,27 @@
 
 此后不用费劲找满是广告的网站。
 
+
+# 7-11 更新
+优化测速，自己添加的源也能测。
+优化离线下载完成通知，不用一直刷有通知弹窗再进去看。
+添加客服反馈，方便碰到问题及时沟通。
+减少网络问题时频繁弹提示。
+
 # 下载
 
-[https://github.com/zaidielykelee/Magnet_player/releases/tag/1.2.0%2B7](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.2.0%2B7)
+[https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8)
 
-6-23 更新新增离线下载，数据备份功能。
+安卓下载： [st_v1.3.0_8_20250711_200040.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/st_v1.3.0_8_20250711_200040.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
-
-安卓下载： [st_v1.2.0_7_20250702_110803.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_v1.2.0_7_20250702_110803.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
-
-苹果下载：[st_v1.2.0_7_20250702_110803.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/st_v1.2.0_7_20250702_110803.ipa) 【需要自签名安装，教程如下】
+苹果下载：[st_v1.3.0_8_20250711_200040.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/st_v1.3.0_8_20250711_200040.ipa) 【需要自签名安装，教程如下】
 
 电视端：[shutiaoTV.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/shutiaoTV.apk) 
 
 
 爱思助手 使用 Apple ID 对 IPA 安装包签名的详细操作教程！ - https://www.bilibili.com/video/BV1Jg4y1n7hi/
+
+更多签名工具： https://ipa.store/install
 
 # 操作
 
