@@ -25,7 +25,7 @@
 
 苹果下载：[st_v1.3.0_8_20250801_100320.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/st_v1.3.0_8_20250801_100320.ipa) 【需要自签名安装，教程如下】
 
-电视端：[shutiaoTV.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/shutiaoTV.apk) 
+电视端：[shutiaotv_release_universal.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.2.0%2B7/shutiaotv_release_universal.apk) 
 
 
 爱思助手 使用 Apple ID 对 IPA 安装包签名的详细操作教程！ - https://www.bilibili.com/video/BV1Jg4y1n7hi/
