@@ -18,7 +18,6 @@
 
 # 下载
 
-[https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8)
 
 安卓下载： [st_v1.5.0_9_20250929_194233.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20250929_194233.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
