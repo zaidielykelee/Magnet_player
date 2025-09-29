@@ -11,19 +11,18 @@
 本APP不要求任何权限，安装即可使用。
 
 
-# 7-11 更新
-优化测速，自己添加的源也能测。
-优化离线下载完成通知，不用一直刷有通知弹窗再进去看。
-添加客服反馈，方便碰到问题及时沟通。
-减少网络问题时频繁弹提示。
+# 9-29 更新
+修复一些BUG，如部分华为手机播放异常退出。
+优化功能布局，更直观易用。
+优化网络访问，网络异常时可重启APP，会尝试自动修复，如果重启还不行就使用功能列表中的网络修复功能。
 
 # 下载
 
 [https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8](https://github.com/zaidielykelee/Magnet_player/releases/tag/1.3.0%2B8)
 
-安卓下载： [st_v1.3.0_8_20250820_200622.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/st_v1.3.0_8_20250820_200622.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
+安卓下载： [st_v1.5.0_9_20250929_194233.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20250929_194233.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
-苹果下载：[st_v1.3.0_8_20250820_200622.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/st_v1.3.0_8_20250820_200622.ipa) 【需要自签名安装，教程如下】
+苹果下载：[st_v1.5.0_9_20250929_194233.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20250929_194233.ipa) 【需要自签名安装，教程如下】
 
 电视端：[shutiaotv_release_0904.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/shutiaotv_release_0904.apk) 
 
