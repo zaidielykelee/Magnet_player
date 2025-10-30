@@ -7,17 +7,16 @@
 本APP不要求任何权限，安装即可使用。
 
 
-# 10-22 更新
-修复一些BUG，离线下载列表优化。
-播放页添加当前网速显示。
-优化网络访问，网络异常时可重启APP，会尝试自动修复，如果重启还不行就使用功能列表中的网络修复功能。
+# 10-31 更新
+优化下载，增加下载目录设置。
+播放器UI布局优化。
 
 # 下载
 
 
-安卓下载： [st_v1.5.0_9_20251022_230005.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251022_230005.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
+安卓下载： [st_v1.5.0_9_20251030_233910.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251030_233910.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
-苹果下载：[st_v1.5.0_9_20251022_230005.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251022_230005.ipa) 【需要自签名安装，教程如下】
+苹果下载：[st_v1.5.0_9_20251030_233910.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251030_233910.ipa) 【需要自签名安装，教程如下】
 
 电视端：[shutiaotv_release_0904.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/shutiaotv_release_0904.apk) 
 
