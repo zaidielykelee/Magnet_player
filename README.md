@@ -14,9 +14,9 @@
 # 下载
 
 
-安卓下载： [st_v1.5.0_9_20251030_233910.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251030_233910.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
+安卓下载： [st_v1.5.0_9_20251031_085458.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251031_085458.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
-苹果下载：[st_v1.5.0_9_20251030_233910.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251030_233910.ipa) 【需要自签名安装，教程如下】
+苹果下载：[st_v1.5.0_9_20251031_085458.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251031_085458.ipa) 【需要自签名安装，教程如下】
 
 电视端：[shutiaotv_release_0904.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/shutiaotv_release_0904.apk) 
 
