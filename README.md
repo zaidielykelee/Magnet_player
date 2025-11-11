@@ -14,7 +14,7 @@
 # 下载
 
 
-安卓下载： [st_v1.5.0_9_20251102_195323.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251102_195323.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
+安卓下载： [st_v1.5.0_9_20251111_080759.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251111_080759.apk) [碰到禁止安装，先断网关掉wifi&手机移动网络，再试！]
 
 苹果下载：[st_v1.5.0_9_20251102_195323.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20251102_195323.ipa) 【需要自签名安装，教程如下】
 
