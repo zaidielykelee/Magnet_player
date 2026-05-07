@@ -20,7 +20,7 @@
 
 电视端：[shutiaotv_release_0904.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/shutiaotv_release_0904.apk) 
 
-苹果电脑端：[st-macos-universal.dmg](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st-macos-universal.dmg)
+苹果电脑端：[st-macos-obfuscated.dmg](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st-macos-obfuscated.dmg)
 
 爱思助手 使用 Apple ID 对 IPA 安装包签名的详细操作教程！ - https://www.bilibili.com/video/BV1Jg4y1n7hi/
 
