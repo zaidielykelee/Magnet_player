@@ -22,6 +22,9 @@
 
 苹果电脑端：[st-macos-obfuscated.dmg](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st-macos-obfuscated.dmg)
 
+WIN系统：[st_windows.zip](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_windows.zip)
+
+
 爱思助手 使用 Apple ID 对 IPA 安装包签名的详细操作教程！ - https://www.bilibili.com/video/BV1Jg4y1n7hi/
 
 更多签名工具： https://ipa.store/install
