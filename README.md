@@ -18,7 +18,7 @@
 
 苹果下载：[st_v1.5.0_9_20260507_988802.ipa](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st_v1.5.0_9_20260507_988802.ipa) 【需要自签名安装，教程如下】
 
-电视端：[shutiaotv_release_0904.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.3.0%2B8/shutiaotv_release_0904.apk) 
+电视端：[stv_20260611001.apk](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/stv_20260611001.apk) 
 
 苹果电脑端：[st-macos-obfuscated.dmg](https://github.com/zaidielykelee/Magnet_player/releases/download/1.5.0%2B8/st-macos-obfuscated.dmg)
 
